@@ -21,9 +21,9 @@ import CarouselComponent from './carousel';
 
                         <div className="card-content">
                         <span className="card-title"><b>Make: {item.title}</b></span>
-                        <p><b>Model: {item.model}$</b></p>
-                        <p><b>Mileage: {item.mileage}$</b></p>
-                        <p><b>YOM: {item.YOM}$</b></p>
+                        <p><b>Model: {item.model}</b></p>
+                        <p><b>Mileage: {item.mileage}</b></p>
+                        <p><b>YOM: {item.YOM}</b></p>
                         <p><b>Price: {item.price}$</b></p>
                         </div>
                  </div>
